@@ -1,0 +1,18 @@
+Membuat Class Admin.
+Membuat class log activity.
+membuat class Temon shop driver.
+membuat class abstract date time 
+melengkapi class driver
+Melengkapi driver Class.
+Melengkapi Class Driver
+menambah class driver
+melengkapi abstractDateTime
+membuat class simpledatetime.
+Memperbaiki Driver.
+Memperbaiki Driver.
+Memperbaiki Driver.
+Memperbaiki Driver.
+memperbaiki logactivity.
+memperbaiki TemonShopDriver.
+Memperbaiki README.
+Mengubah Class Diagram.
